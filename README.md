@@ -4,6 +4,7 @@ Sou Marcus Vinícius, estudante de Sistemas de Informação e comecei a estudar 
 
 ---
 
-| <img src="https://streak-stats.demolab.com?user=eivini&theme=dark" height="180em"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eivini&layout=compact&theme=dark" height="180em"/> |
+ <img src="https://streak-stats.demolab.com?user=eivini&theme=dark" height="180em"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eivini&layout=compact&theme=dark" height="180em"/> 
 
 ![Snake Commit Black](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
